@@ -8,4 +8,4 @@ This repository contains my solutions for some codewars exercises. These are som
 
 I put them here since it has been really a long time the last time I played on codewars and I am not sure if I will continue there. There are some solutions that I think may be interesting for myself to store and to reference in my future study.
 
-Only solutions ranking above or equals to 5 kyu except one will be recorded.
+Only solutions ranking above or equals to 5 kyu except one will be recorded. This count to 23 katas through 172 completed.
